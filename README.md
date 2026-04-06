@@ -11,7 +11,7 @@ A comprehensive implementation of the Huffman coding algorithm for data compress
 ## Project Structure
 
 ```
-HuffmanCompressor-main/
+CompViz/
 ├── Codec.js             # JavaScript Huffman codec functions
 ├── Huffman.cpp          # Core Huffman algorithm in C++
 ├── Huffman.pdf          # Detailed documentation
